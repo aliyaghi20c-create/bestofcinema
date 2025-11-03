@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "imdb": "tt15398776",
+    "poster": "/movies/Oppenheimer.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Batman",
+    "imdb": "tt1877830",
+    "poster": "/movies/TheBatman.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "imdb": "tt1375666",
+    "poster": "/movies/Inception.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "imdb": "tt0816692",
+    "poster": "/movies/Interstellar.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Fight Club",
+    "imdb": "tt0137523",
+    "poster": "/movies/FightClub.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Substance",
+    "imdb": "tt18271756",
+    "poster": "/movies/TheSubstance.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Joker",
+    "imdb": "tt7286456",
+    "poster": "/movies/Joker.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Superman",
+    "imdb": "tt0078346",
+    "poster": "/movies/Superman.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Scream",
+    "imdb": "tt0117571",
+    "poster": "/movies/Scream.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Naruto the Movie",
+    "imdb": "tt0476680",
+    "poster": "/movies/NarutoTheMovie.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "imdb": "tt0468569",
+    "poster": "/movies/TheDarkKnight.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Matrix",
+    "imdb": "tt0133093",
+    "poster": "/movies/TheMatrix.jpg"
+  },
+  {
+    "id": 13,
+    "title": "American Psycho",
+    "imdb": "tt0144084",
+    "poster": "/movies/AmericanPsycho.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Spider-Man",
+    "imdb": "tt0145487",
+    "poster": "/movies/SpiderMan.jpg"
+  }
+]
